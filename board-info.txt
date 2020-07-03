@@ -1,0 +1,4 @@
+require version-baseband=1.0.c8.10-00070-SDX55_RMTEFS_PACK-1.284243.1
+require version-modem=2020-06-2303:45:56
+require version-trustzone=TZ.XF.5.8-287576
+require version-vendor=1592853919
